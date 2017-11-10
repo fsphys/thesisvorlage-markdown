@@ -1,0 +1,46 @@
+---
+title: Your Thesis' Title
+subtitle: ---
+author: Your Name
+
+lang: en
+fontsize: 12pt
+documentclass: scrreprt
+top-level-division: chapter
+toc: yes
+toc-depth: 1
+lof: yes
+secnumdepth: 1
+# crossref custumization
+figPrefix: ["Fig.", "Figs."]
+eqnPrefix: ["Eq.", "Eqns."]
+tblPrefix: ["Tbl.", "Tbls."]
+secPrefix: ["Section", "Sections"]
+# TODO: chapter prefix
+autoEqnLabels: yes
+cref: yes
+bibliography: references.yaml
+# citation-style: path/to/file.csl
+reference-section-title: Bibliography
+header-includes:
+    - \usepackage[onehalfspacing]{setspace}
+    #- \usepackage{chemfig}
+include-before: |
+  Ich erkläre hiermit, dass ich die vorliegende Arbeit selbständig verfasst
+  und keine anderen als die angegebenen Quellen und Hilfsmittel verwendet habe.
+  \vspace{2cm}
+  \begin{flushright}
+  \begin{tabular}{lr}
+      \multicolumn{2}{c}{\rule[0.1cm]{8cm}{0.1pt}}\\
+      & Karlsruhe, dd.mm.yyyy\\
+  \end{tabular}
+  \end{flushright}
+  \vfill
+  Genehmigt als Ansichtsexemplar
+  \begin{flushright}
+  \begin{tabular}{lr}
+      \multicolumn{2}{c}{\rule[0.1cm]{8cm}{0.1pt}}\\
+      & Karlsruhe, dd.mm.yyyy\\
+  \end{tabular}
+  \end{flushright}
+---
