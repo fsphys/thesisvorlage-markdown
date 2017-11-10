@@ -1,5 +1,1 @@
 \appendix
-
-# Some Topic
-
-Content.

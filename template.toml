@@ -1,0 +1,12 @@
+license = "MIT"
+with_readme = false
+
+[files]
+directories = ["figures","refs"]
+files = ["refs/references.bib", "chapter1.md"]
+templates = ["config.yaml", "Makefile", "chapter0.md", "chapter9.md",
+             "appendixA.md", ".gitignore"]
+
+[config]
+version = "0.1"
+version_control = "git"
