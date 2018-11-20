@@ -18,7 +18,7 @@ tblPrefix: ["Tbl.", "Tbls."]
 secPrefix: ["Section", "Sections"]
 # TODO: chapter prefix
 autoEqnLabels: yes
-cref: yes
+cref: true
 bibliography: references.yaml
 # citation-style: path/to/file.csl
 reference-section-title: Bibliography
