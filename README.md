@@ -34,7 +34,7 @@ Auf Arch Linux und Manjaro:
     $ sudo pacman -S make texlive-most pandoc pandoc-crossref pandoc-citeproc
 
 ( **Pro Tip**: Die Haskell-Dependencies können mit den statisch kompilierten AUR-Paketen
-`pandoc-bin`, `pandoc-crossref-bin` und `pandoc-citeproc-bin` umgangen werden.)
+`pandoc-bin`, `haskell-pandoc-citeproc-bin` und `haskell-pandoc-crossref-bin` umgangen werden.)
 
 Auf Mac mit [Homebrew](https://brew.sh):
 
