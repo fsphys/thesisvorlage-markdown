@@ -1,4 +1,7 @@
-# Vorlage für Abschlussarbeiten am KIT
+# (Archived/Archiviert) Vorlage für Abschlussarbeiten am KIT
+
+**This repository is no longer maintained!** See the official [KIT template](https://gitlab.kit.edu/kit/kastel/sdq/dokumentvorlagen/abschlussarbeiten) as an up to date alternative https://gitlab.kit.edu/kit/kastel/sdq/dokumentvorlagen/abschlussarbeiten !
+
 Bereitgestellt von der Fachschaft Physik
 
 ## Übersicht
